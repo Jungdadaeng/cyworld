@@ -80,8 +80,6 @@ export default function Layout({children}){
                         </div>
                         <div className="wrapper__right__body">
                             <Outlet />
-                            {/* {children} */}
-                            {/* <iframe id="contentFrame" src="./Home.js"></iframe> */}
                         </div>
                     </div>
                     <div className="navigation">
