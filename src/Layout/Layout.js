@@ -45,15 +45,15 @@ export default function Layout({children}){
                             <div className="left__body__profile">
                                 <div className="profile__detail">
                                     <i className="fas fa-file-signature"></i>
-                                    name
+                                    name : 정다윤
                                 </div>
                                 <div className="profile__detail">
                                     <i className="fas fa-phone"></i>
-                                    phone
+                                    phone : 010-3953-1685
                                 </div>
                                 <div className="profile__detail">
                                     <i className="fas fa-envelope-square"></i>
-                                    mail
+                                    mail : jungdayoonyi@gmail.com
                                 </div>
                                 <div className="profile__detail">
                                     <i className="fas fa-images"></i>
